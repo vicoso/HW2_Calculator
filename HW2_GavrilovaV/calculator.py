@@ -25,6 +25,11 @@ def ded_func(num1, num2): # defining subtraction function
 
 def mult_func(num1, num2):  # defining multiplication function
     return num1 * num2
+
+def div_func(num1, num2):  # defining division function
+    res = num1 / num2
+    
+    return res
 # %%
 """
 defining MAIN FUNCTION
